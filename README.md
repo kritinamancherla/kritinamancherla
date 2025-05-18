@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **Risk Analysis for smart contracts using Deep Learning**
 
 - 🌱 I’m currently learning **GenAI**
+  
+- I'm an **AWS Certified Cloud Practitioner and AWS Certified Solutions Architect**
 
 - 👯 I’m looking to collaborate on **Cloud and AI Applications**
 
